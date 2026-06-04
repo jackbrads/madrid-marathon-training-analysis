@@ -2,7 +2,7 @@
 -- Marathon Training Analytics
 -- File: 01_create_tables.sql
 -- Description: Creates all tables in Snowflake
--- Author: Your Name
+-- Author: Jack Bradley
 -- Date: 2026
 -- =============================================
 CREATE DATABASE marathon_analysis;
