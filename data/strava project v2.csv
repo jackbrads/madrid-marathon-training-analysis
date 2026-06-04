@@ -1,0 +1,73 @@
+﻿Session ID,Week,Phase,Run Type,Planned KM,Activity ID,Activity Name,Activity Type,Elapsed Time,Actual KM,Activity Gear,Max Speed,avg_pace,Elevation Gain,Max Cadence,Average Cadence,Max Heart Rate,Average Heart Rate
+1,1,Prep,Easy,8,16944936406,Lunch Run,Run,2188,5.4,Nike Vomero 18,3.6,00:03,15,80,78,163,147
+2,1,Prep,Tempo,10,16967956977,Afternoon Run,Run,2766,8.42,Nike Air Zoom Pegasus 41 Whites ,4.26,00:03,21,84,79,192,173
+3,1,Prep,Easy,5,16991995077,Evening Run,Run,2023,5.25,Nike Vomero 18,4.78,00:03,25,80,76,162,145
+4,1,Prep,Long,16,17001987906,Afternoon Run,Run,5375,16.38,Nike Vomero 18,5.68,00:03,118,82,79,192,175
+5,2,Prep,Easy,6,17025522530,Evening Run,Run,2324,6.01,Nike Air Zoom Pegasus 41 Whites ,3.96,00:03,19,79,77,161,152
+6,2,Prep,Progression,10,17058540045,Afternoon Run,Run,3282,10.4,Saucony Endorphin Speed 5,4.84,00:03,24,86,79,198,171
+7,2,Prep,Easy,7,17072421423,Evening Run,Run,2493,6.43,Nike Air Zoom Pegasus 41 Whites ,5.4,00:03,16,89,77,167,154
+8,2,Prep,Long,19,17080265962,Lunch Run,Run,7146,19.08,Nike Vomero 18,5.6,00:03,198,104,79,180,151
+9,3,Prep,Easy,8,17103495016,Afternoon Run,Run,2771,7.76,Nike Air Zoom Pegasus 41 Whites ,5.04,00:03,22,80,78,162,149
+10,3,Prep,Intervals/Tempo,10,17115685280,Afternoon Run,Run,3039,8.98,Saucony Endorphin Speed 5,5.2,00:03,21,108,75,175,148
+11,3,Prep,Easy,8,17139028495,Afternoon Run,Run,2906,7.94,Nike Air Zoom Pegasus 41 Whites ,9.48,00:03,24,118,77,165,150
+12,3,Prep,Long,23,17170325775,Morning Run,Run,8128,23.02,Nike Vomero 18,5.64,00:03,120,81,78,183,155
+13,4,Reco,Easy,7,17185115607,Evening Run,Run,2735,7.09,Nike Vomero 18,4.32,00:03,18,79,76,154,142
+14,4,Reco,Intervals/Tempo,8,17205588366,Afternoon Run,Run,2459,7.96,Saucony Endorphin Speed 5,5.36,00:03,61,83,79,189,165
+15,4,Reco,Easy,8,17258511220,Afternoon Run,Run,2375,7.22,Nike Air Zoom Pegasus 41 Whites ,5.56,00:03,60,81,79,181,157
+16,4,Reco,Long,16,17258511431,Lunch Run,Run,5880,12.34,Nike Vomero 18,4.36,00:03,83,81,78,177,151
+17,5,Build,Easy,6,17263078597,Evening Run,Run,2433,6.92,Nike Air Zoom Pegasus 41 Whites ,5.14,00:03,41,85,78,163,150
+18,5,Build,Intervals/Tempo,11,17272373757,Afternoon Run,Run,3695,11.9,Saucony Endorphin Speed 5,4.96,00:03,31,88,80,192,165
+19,5,Build,Easy,8,17295231540,Afternoon Run,Run,2610,7.86,Brooks Glycerin GTS,5.18,00:03,92,81,78,180,159
+20,5,Build,Long,26,17309274468,Evening Run,Run,8776,26.1,Nike Vomero 18,5.24,00:03,107,85,79,193,164
+21,6,Build,Easy,8,17340154335,Afternoon Run,Run,3027,8,Brooks Glycerin GTS,4.44,00:03,32,79,78,171,145
+22,6,Build,Intervals/Tempo,10,17365837996,Evening Run,Run,3120,9.64,Saucony Endorphin Speed 5,5.58,00:03,83,111,79,184,155
+23,6,Build,Easy,6,17373604729,Afternoon Run,Run,2338,6.09,Brooks Glycerin GTS,5.44,00:03,28,106,78,167,142
+24,6,Build,Easy,5,17373604730,Missed Run,Run,0,0,Brooks Glycerin GTS,0,00:00,0,0,0,0,0
+25,6,Build,Long,29,17394482666,Morning Run,Run,10455,29,Nike Vomero 18,4.9,00:03,317,84,80,192,162
+26,7,Build,Easy,8,17415864761,Afternoon Run,Run,2841,8.04,Brooks Glycerin GTS,4.74,00:03,29,118,78,155,145
+27,7,Build,Intervals/Tempo,9,17439219187,Afternoon Run,Run,2947,8.35,Saucony Endorphin Speed 5,5.28,00:03,35,101,75,184,147
+28,7,Build,Easy,10,17452636119,Evening Run,Run,2233,6.04,Brooks Glycerin GTS,5.48,00:03,25,100,78,171,144
+29,7,Build,Long,32,17471258427,Morning Run,Run,10955,32.03,Nike Vomero 18,5.4,00:03,201,85,80,189,166
+30,7,Build,Easy,5,17483412488,Afternoon Run,Run,1914,5.16,Brooks Glycerin GTS,5.04,00:03,22,81,78,162,146
+31,8,Reco,Easy,10,17506770493,Afternoon Run,Run,3514,9.58,Brooks Glycerin GTS,5.56,00:03,22,79,78,151,143
+32,8,Reco,Intervals/Tempo,11,17506770494,Missed Run,Run,0,0,Brooks Glycerin GTS,0,00:00,0,0,0,0,0
+33,8,Reco,Easy,7,17529943537,Afternoon Run,Run,3068,8.35,Brooks Glycerin GTS,4.3,00:03,24,80,78,156,145
+34,8,Reco,Long,23,17544725553,Evening Run,Run,4642,14.37,Brooks Glycerin GTS,4.7,00:03,25,81,79,173,151
+35,8,Extra,Easy,1,17579526396,Evening Run,Run,3330,9.63,Brooks Glycerin GTS,3.82,00:03,21,80,78,157,143
+36,8,Extra,Long,1,17592948294,Evening Run,Run,7152,22.42,Nike Vomero 18,4.52,00:03,118,95,80,181,164
+37,8,Extra,Easy,1,17632325112,Morning Run,Run,2004,6.01,Brooks Glycerin GTS,4.28,00:03,28,81,78,184,158
+38,9,Peak,Easy,10,17657138054,Morning Run,Run,2936,9,Brooks Glycerin GTS,5.06,00:03,90,89,79,192,167
+39,9,Peak,Intervals/Tempo,12,17672905290,Afternoon Run,Run,3409,10.94,Saucony Endorphin Speed 5,4.78,00:03,18,86,80,192,160
+40,9,Peak,Easy,8,17705389452,Morning Run,Run,2907,8,Brooks Glycerin GTS,5.36,00:03,20,80,78,153,143
+41,9,Peak,Easy,6,17705389453,Missed Run,Run,0,0,Brooks Glycerin GTS,0,00:00,0,0,0,0,0
+42,9,Peak,Long,32,17719254523,Morning Run,Run,11734,31.73,Nike Vomero 18,6.3,00:03,238,83,79,194,162
+43,10,Peak,Easy,10,17745349204,Evening Run,Run,3696,10,Brooks Glycerin GTS,4.7,00:03,45,80,77,151,141
+44,10,Peak,Intervals/Tempo,9,17753981252,Afternoon Run,Run,3604,9.76,Saucony Endorphin Speed 5,5.14,00:03,22,115,74,195,144
+45,10,Peak,Intervals/Tempo,13,17779495751,Afternoon Run,Run,4177,13.08,Saucony Endorphin Speed 5,4.6,00:03,22,84,80,184,160
+46,10,Peak,Easy,5,17791229746,Afternoon Run,Run,1774,4.81,Brooks Glycerin GTS,4.58,00:03,16,80,78,159,142
+47,10,Peak,Long,34,17803041381,Morning Run,Run,10591,30.87,Nike Vomero 18,5.6,00:03,261,100,80,187,154
+48,11,Peak,Easy,10,17827807217,Afternoon Run,Run,4039,10.13,Brooks Glycerin GTS,7.7,00:03,30,102,78,168,138
+49,11,Peak,Intervals/Tempo,11,17853553202,Afternoon Run,Run,3509,10.76,Saucony Endorphin Speed 5,5.38,00:03,24,86,80,198,161
+50,11,Peak,Easy,11,17869100627,Evening Run,Run,3814,10.05,Brooks Glycerin GTS,4.28,00:03,22,80,78,154,137
+51,11,Peak,Easy,10,17869100628,Missed Run,Run,0,0,Brooks Glycerin GTS,0,00:00,0,0,0,0,0
+52,11,Peak,Long,35,17887406780,Morning Run,Run,11905,35.01,Nike Vomero 18,7.18,00:03,235,85,81,188,162
+53,12,Peak,Intervals/Tempo,10,17912123774,Afternoon Run,Run,2950,8.38,Saucony Endorphin Speed 5,5.32,00:03,28,86,75,167,140
+54,12,Peak,Easy,13,17929637101,Evening Run,Run,4881,13.02,Brooks Glycerin GTS,4.56,00:03,41,80,78,150,139
+55,12,Peak,Progression,14,17941717653,Evening Run,Run,4598,13.99,Brooks Glycerin GTS,4.58,00:03,102,84,79,175,148
+56,12,Peak,Easy,10,17941717654,Missed Run,Run,0,0,Brooks Glycerin GTS,0,00:00,0,0,0,0,0
+57,12,Peak,Long,37,17983269810,Morning Run,Run,2697,7.99,Nike Vomero 18,5.58,00:03,57,84,80,174,153
+58,13,Taper,Easy,10,18031263811,Evening Run,Run,3481,9.88,Brooks Glycerin GTS,5.5,00:03,32,80,78,147,128
+59,13,Taper,Intervals/Tempo,11,18043788119,Evening Run,Run,2852,8.35,Saucony Endorphin Speed 5,4.76,00:03,20,107,76,178,152
+60,13,Taper,Easy,11,18055200423,Afternoon Run,Run,4139,10.32,Brooks Glycerin GTS,5.36,00:03,41,86,78,173,148
+61,13,Taper,Easy,10,18055200424,Missed Run,Run,0,0,Brooks Glycerin GTS,0,00:00,0,0,0,0,0
+62,13,Taper,Long,29,18063552847,Morning Run,Run,9377,29.52,Nike Vomero 18,5.88,00:03,159,103,80,189,163
+63,14,Taper,Intervals/Tempo,9,18090924894,Afternoon Run,Run,3058,8.26,Saucony Endorphin Speed 5,5.12,00:03,36,104,74,170,134
+64,14,Taper,Easy,10,18128161471,Afternoon Run,Run,3683,10.21,Brooks Glycerin GTS,4.22,00:03,28,80,78,161,145
+65,14,Taper,Intervals/Tempo,10,18131882740,Afternoon Run,Run,2531,8.34,Brooks Glycerin GTS,4.2,00:03,23,81,79,172,154
+66,14,Taper,Easy,10,18131882741,Missed Run,Run,0,0,Brooks Glycerin GTS,0,00:00,0,0,0,0,0
+67,14,Taper,Long,19,18154980712,Morning Run,Run,5803,18.21,Nike Vomero 18,4.52,00:03,124,83,80,189,164
+68,15,Race,Easy,10,18182746929,Lunch Run,Run,2140,5.94,Brooks Glycerin GTS,4.9,00:03,22,81,78,157,145
+69,15,Race,Intervals/Tempo,8,18196984515,Afternoon Run,Run,2385,7.07,Brooks Glycerin GTS,4.7,00:03,19,81,76,174,152
+70,15,Race,Easy,6,18238184665,Afternoon Run,Run,1930,5.2,Brooks Glycerin GTS,5.16,00:03,19,108,78,164,150
+71,15,Race,Easy,5,18238184666,Missed Run,Run,0,0,Brooks Glycerin GTS,0,00:00,0,0,0,0,0
+72,15,Race,Marathon,42.2,18265769419,Madrid Marathon,Run,13411,42.67,Nike Vaporflys,10.86,00:03,353,88,82,187,171
