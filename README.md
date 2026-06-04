@@ -31,6 +31,10 @@ training data leading up to the 2026 Madrid Marathon.
 [[View the live Power BI report here]](https://app.powerbi.com/groups/me/reports/99db0e1e-5a68-4fcf-9548-fed5283dffa8/664ff07d7c4309f35b2d?experience=power-bi)
 
 ![Dashboard Screenshot](images/dashboard_screenshot.gif)
+![Dashboard Screenshot](images/dashboard_screenshot1.gif)
+![Dashboard Screenshot](images/dashboard_screenshot2.gif)
+![Dashboard Screenshot](images/dashboard_screenshot3.gif)
+![Dashboard Screenshot](images/dashboard_screenshot4.gif)
 
 ## Key Findings
 - Total planned km: 896.2 | Total actual km: 796.66
